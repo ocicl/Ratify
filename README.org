@@ -5,5 +5,5 @@ A collection of Common Lisp utilities to ratify, validate and parse inputs.
 |---------+--------------------------------------------|
 | source  | git:https://github.com/Shinmera/Ratify.git |
 | commit  | 9ce3b6e                                    |
-| systems | Ratify                                     |
+| systems | ratify                                     |
 |---------+--------------------------------------------|
