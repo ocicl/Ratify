@@ -4,6 +4,6 @@ A collection of Common Lisp utilities to ratify, validate and parse inputs.
 
 |---------+--------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/ratify.git |
-| commit  | 0000000                                    |
+| commit  | a4c7fbe                                    |
 | systems | ratify                                     |
 |---------+--------------------------------------------|
