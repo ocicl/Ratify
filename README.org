@@ -3,7 +3,7 @@
 A collection of Common Lisp utilities to ratify, validate and parse inputs.
 
 |---------+--------------------------------------------|
-| source  | git:https://github.com/Shinmera/Ratify.git |
-| commit  | f81ab43                                    |
+| source  | git:https://codeberg.org/shinmera/ratify.git |
+| commit  | 0000000                                    |
 | systems | ratify                                     |
 |---------+--------------------------------------------|
